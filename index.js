@@ -23,7 +23,7 @@ var every = [].every;
  */
 
 module.exports = function (arr, fn) {
-  if (every) return every.apply(arr, fn);
+  if (every) return every.call(arr, fn);
   for (var i = 0, l = arr.length; i < l; ++i) {
     if (!fn(arr[i], i)) return false;
   }
