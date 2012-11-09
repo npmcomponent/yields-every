@@ -1,0 +1,12 @@
+{
+  "name": "every",
+  "repo": "yields/every",
+  "description": "es5 every",
+  "version": "0.0.1",
+  "keywords": ["every", "es5", "array"],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
