@@ -1,7 +1,7 @@
 
 # every
 
-  es5 every
+  Array every utility.
 
 ## Installation
 

@@ -1,9 +1,9 @@
 {
   "name": "every",
   "repo": "yields/every",
-  "description": "es5 every",
+  "description": "Array every utility",
   "version": "0.0.1",
-  "keywords": ["every", "es5", "array"],
+  "keywords": ["every", "array"],
   "dependencies": {},
   "development": {},
   "scripts": [
