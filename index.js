@@ -6,7 +6,7 @@
 var every = [].every;
 
 /**
- * Test wether or not all elements
+ * Test whether or not all elements
  * in the provided array pass the provided
  * test.
  *
