@@ -1,0 +1,10 @@
+{
+  "name": "yields-every",
+  "description": "Array every utility",
+  "version": "1.0.0",
+  "keywords": [
+    "every",
+    "array"
+  ],
+  "dependencies": {}
+}
